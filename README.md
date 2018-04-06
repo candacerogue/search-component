@@ -42,7 +42,7 @@ search-components/
 In the command line of your terminal, copy the following string:
 
 ```sh
-git clone https://github.com/facebook/create-react-app.git
+git clone https://github.com/candacerogue/search-component.git
 cd search-component
 npm start
 ```
